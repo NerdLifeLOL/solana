@@ -1,6 +1,15 @@
 {
-  "name": "Testing 2024",
-  "symbol": "T24",
-  "description": "Just a test",
-  "image": "https://www.startupsos.com/wp-content/uploads/2015/07/test.jpg"
+    "name": "Testing 2024",
+    "symbol": "T24",
+    "description": "Testing some shit.",
+    "image": "https://www.startupsos.com/wp-content/uploads/2015/07/test.jpg",
+    "attributes": [],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://www.startupsos.com/wp-content/uploads/2015/07/test.jpg",
+                "type": "image/jpg"
+            }
+        ]
+    }
 }
